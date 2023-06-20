@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="btniniciarpantalla">Iniciar Sesion</string>
+    <string name="btnregistrar">Registrar</string>
+
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="btn_registrarse_sesion">Registrarse</string>
+    <string name="registro">¡Registrate!</string>
+    <string name="inicar">¡Inicia Sesión!</string>
+</resources>
