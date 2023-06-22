@@ -47,7 +47,7 @@ public class Iniciarsesion extends AppCompatActivity {
 
                         } else {
                             // If sign in fails, display a message to the user.
-                            Toast.makeText(getApplicationContext(), "Authentication fallida.", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(), "Autentication fallida.", Toast.LENGTH_SHORT).show();
                             //updateUI(null)
                         }
                     }

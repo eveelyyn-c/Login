@@ -13,12 +13,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    public void irInicio(View view){
+    public void irinicio(View view){
         Intent i =new Intent(this, Iniciarsesion.class);
         startActivity(i);
     }
 
-    public void irRegistro(View view){
+    public void irregistro(View view){
         Intent i =new Intent(this, Registro.class);
         startActivity(i);
     }
